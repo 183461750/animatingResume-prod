@@ -1,0 +1,24 @@
+刘金发<br>
+----<br>
+有着良好的Java基础，会js/html/css的web技术，热爱互联网技术。<br>
+目标是成为JavaWeb全栈开发工程师！<br>
+<br>
+技能<br>
+----<br>
+* 前端开发<br>
+* Node.js开发<br>
+* Java后端开发<br>
+* python脚本开发<br>
+<br>
+教育背景<br>
+----<br>
+1. 高中 南雄市第一中学<br>
+2. 大学 韶关学院 计算机应用技术<br>
+<br>
+链接<br>
+----<br>
+* [Github]()<br>
+* [我的微信](myweixin.html)<br>
+* [返回菜单](../start.html)<br>
+<br>
+如果你喜欢这个效果，点击[动态简历](resume.html)，来查看吧！<br>
