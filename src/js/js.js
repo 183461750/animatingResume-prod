@@ -275,11 +275,6 @@ var textStyleFull = `
 <li>Java后端开发</li>
 <li>python脚本开发</li>
 </ul>
-<h2>教育背景</h2>
-<ol>
-<li>高中 南雄市第一中学</li>
-<li>大学 韶关学院 计算机应用技术</li>
-</ol>
 <h2>链接</h2>
 <ul>
 <li><a href="https://github.com/183461750/animatingResume">[Github]</a></li>
